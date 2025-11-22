@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Website Development",
+    "short": "Business websites + dashboards",
+    "description": "Create modern business websites, landing pages and dashboards with hosting and admin panel options.",
+    "charges": {
+      "starting": 4999,
+      "max": 20000
+    },
+    "timeline": "3–10 days",
+    "notes": "Price depends on pages & features."
+  },
+  {
+    "name": "App Development",
+    "short": "Flutter apps with backend",
+    "description": "Build Android/iOS apps with Firebase backend, authentication, storage and admin panel (optional).",
+    "charges": {
+      "starting": 3999,
+      "max": 25000
+    },
+    "timeline": "5–15 days",
+    "notes": "Custom features increase delivery time."
+  },
+  {
+    "name": "UI/UX Design",
+    "short": "Screens, layouts & prototypes",
+    "description": "Design modern UI for apps or websites including screens, color theme, and clickable prototype.",
+    "charges": {
+      "starting": 1999,
+      "max": 6000
+    },
+    "timeline": "1–4 days",
+    "notes": "Screens count affects cost."
+  },
+  {
+    "name": "Video Editing",
+    "short": "Reels, intros & promos",
+    "description": "Professional editing for reels, intros, promos with color grading, transitions and titles.",
+    "charges": {
+      "starting": 999,
+      "max": 3500
+    },
+    "timeline": "1–3 days",
+    "notes": "Length of video affects cost."
+  },
+  {
+    "name": "Brand Identity",
+    "short": "Logo & brand kit",
+    "description": "Logo design, brand colors, social media kit, posters and banners.",
+    "charges": {
+      "starting": 499,
+      "max": 3000
+    },
+    "timeline": "1–3 days",
+    "notes": "Includes 2–3 revisions."
+  }
+]
