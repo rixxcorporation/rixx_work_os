@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-11-24",
+
+  "websites": [
+    {
+      "id": "site_rixxcorp_main",
+      "name": "RIXX Corporation Main Site",
+      "slug": "rixxcorp_main",
+      "status": "active",
+      "category": "portfolio",
+      "short": "Main corporate website for RIXX.",
+      "description": "Primary public-facing website for RIXX Corporation with services, contact, and brand information.",
+      "links": {
+        "live_url": "https://rixxcorp.co.in",
+        "staging_url": null,
+        "repo_url": "https://github.com/rixxcorporation/rixxcorp_main",
+        "design_doc": null
+      },
+      "tech_stack": ["Flutter Web", "Firebase", "Cloud Functions"],
+      "owner": "Rishabh",
+      "priority": "high",
+      "tags": ["client-facing", "brand"],
+      "notes_internal": "Keep uptime high; use this as reference for other sites."
+    }
+  ],
+
+  "bots": [
+    {
+      "id": "bot_rixx_support_tg",
+      "name": "RIXX Telegram Support Bot",
+      "slug": "rixx_support_telegram",
+      "platform": "telegram",
+      "status": "in_dev",
+      "short": "Support bot for internal and client queries.",
+      "description": "Telegram bot to answer FAQs, show service status, and quickly share internal resources between partners.",
+      "links": {
+        "bot_url": "https://t.me/rixx_support_bot",
+        "repo_url": "https://github.com/rixxcorporation/rixx_support_tg",
+        "docs_url": null
+      },
+      "tech_stack": ["Python", "python-telegram-bot", "Firestore"],
+      "owner": "Kartikey",
+      "priority": "medium",
+      "features": [
+        "Quick replies to common questions",
+        "Internal notes access",
+        "Ping notifications to both partners"
+      ],
+      "notes_internal": "Later connect with WorkOS app via Firestore."
+    }
+  ],
+
+  "tools": [
+    {
+      "id": "tool_promo_code_panel",
+      "name": "Promo Code Admin Panel",
+      "slug": "promo_code_tool",
+      "status": "active",
+      "short": "Internal tool to manage promo codes for sites/apps.",
+      "description": "Dashboard to create, validate, and expire promo codes, integrated with Google Sheets backend.",
+      "type": "internal_dashboard",
+      "links": {
+        "panel_url": "https://rixxcorp.co.in/tools/promo",
+        "sheet_url": "https://docs.google.com/spreadsheets/d/XXXX",
+        "repo_url": null
+      },
+      "tech_stack": ["HTML", "JS", "Google Apps Script"],
+      "owner": "Rishabh",
+      "priority": "medium",
+      "tags": ["internal", "payments"],
+      "notes_internal": "Use same structure for all future discount tools."
+    }
+  ],
+
+  "apps": [
+    {
+      "id": "app_rixx_work_os",
+      "name": "RIXX WorkOS",
+      "slug": "rixx_work_os",
+      "platforms": ["android", "windows"],
+      "status": "in_use",
+      "short": "Private OS for RIXX partners.",
+      "description": "Internal app for chats, tasks, calendar, services, and resource sharing between partners with strong security.",
+      "links": {
+        "android_apk": "https://your-download-link.com/rixx_work_os.apk",
+        "windows_exe": "https://your-download-link.com/rixx_work_os.exe",
+        "repo_url": "https://github.com/rixxcorporation/rixx_work_os",
+        "docs_url": null
+      },
+      "tech_stack": ["Flutter", "Firebase", "OneSignal"],
+      "owner": "Rishabh & Kartikey",
+      "priority": "critical",
+      "tags": ["internal", "secure"],
+      "notes_internal": "Only for partners; keep APK private."
+    }
+  ]
+}
