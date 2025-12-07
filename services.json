@@ -51,6 +51,25 @@
     "notes": "Custom features and backend size affect delivery time."
   },
 
+  
+   {
+    "name": "Bots, Pipeline and AI systems",
+    "short": "telegram bots,pipeline 360 and AI",
+    "description": "Professional bots with AI and there pipeline.",
+    "types": [
+      {
+        "label": "Full Bot",
+        "min_price": 699
+      }
+    ],
+    "charges": {
+      "starting": 99,
+      "max": 4999
+    },
+    "timeline": "1–9 days",
+    "notes": "Longer or more complex edits require more time."
+  },
+
   {
     "name": "Social Media Management",
     "short": "Full social media management",
