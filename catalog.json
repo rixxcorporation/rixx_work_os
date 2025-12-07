@@ -6,22 +6,13 @@
     {
       "id": "site_rixxcorp_main",
       "name": "RIXX Corporation Main Site",
-      "slug": "rixxcorp_main",
       "status": "active",
-      "category": "portfolio",
       "short": "Main corporate website for RIXX.",
-      "description": "Primary public-facing website for RIXX Corporation with services, contact, and brand information.",
+      "description": "Website for RIXX Corporation.",
       "links": {
-        "live_url": "https://rixxcorp.co.in",
-        "staging_url": null,
-        "repo_url": "https://github.com/rixxcorporation/rixxcorp_main",
-        "design_doc": null
+        "URL": "https://rixxcorp.co.in",
       },
-      "tech_stack": ["Flutter Web", "Firebase", "Cloud Functions"],
-      "owner": "Rishabh",
-      "priority": "high",
-      "tags": ["client-facing", "brand"],
-      "notes_internal": "Keep uptime high; use this as reference for other sites."
+      "owner": "Rishabh"
     }
   ],
 
