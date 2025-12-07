@@ -5,19 +5,19 @@
   "websites": [
     {
       "id": "web_001",
-      "name": "RIXX Corporation Main Site",
+      "name": "Prakash Medical System",
       "short": "Corporate website",
-      "description": "Official website showcasing RIXX services, branding, portfolio and communication touchpoints.",
-      "link": "https://rixxcorp.co.in",
-      "created_for": "RIXX Corporation",
+      "description": "Official website showcasing services, branding, portfolio and communication touchpoints.",
+      "link": "https://prakashmedical.rixxcorp.co.in",
+      "created_for": "Jai Prakash Mishra",
       "status": "active",
-      "tech": ["HTML", "CSS", "Firebase"],
+      "tech": ["HTML", "CSS", "js"],
       "platform": "Web",
-      "cost": 1999
+      "cost": 499
     }
   ],
 
-  "apps": [
+ /* "apps": [
     {
       "id": "app_001",
       "name": "RIXX WorkOS",
@@ -62,3 +62,4 @@
     }
   ]
 }
+*/
