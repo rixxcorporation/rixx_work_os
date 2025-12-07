@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-12-07",
+
+  "websites": [
+    {
+      "id": "web_001",
+      "name": "RIXX Corporation Main Site",
+      "short": "Corporate website",
+      "description": "Official website showcasing RIXX services, branding, and portfolio.",
+      "link": "https://rixxcorp.co.in",
+      "created_for": "RIXX Corporation",
+      "status": "active",
+      "tech": ["HTML", "CSS", "Firebase"],
+      "platform": "Web"
+    }
+  ],
+
+  "apps": [
+    {
+      "id": "app_001",
+      "name": "RIXX WorkOS",
+      "short": "Internal partner OS",
+      "description": "A private work operating system with chat, tasks, calendar, and analytics.",
+      "link": "https://download-link/rixx_work_os.apk",
+      "created_for": "RIXX Corporation",
+      "status": "in_use",
+      "tech": ["Flutter", "Firebase", "OneSignal"],
+      "platform": "Android / Windows"
+    }
+  ],
+
+  "bots": [
+    {
+      "id": "bot_001",
+      "name": "RIXX Support Bot",
+      "short": "Telegram automation bot",
+      "description": "Support bot for FAQs, quick replies, and internal resources.",
+      "link": "https://t.me/rixx_support_bot",
+      "created_for": "RIXX Corporation",
+      "status": "in_dev",
+      "tech": ["Python", "Firestore"],
+      "platform": "Telegram"
+    }
+  ],
+
+  "others": [
+    {
+      "id": "other_001",
+      "name": "RIXX Brand Assets Pack",
+      "short": "Branding kit",
+      "description": "Logos, posters, banners, and templates used for RIXX branding.",
+      "link": "https://cdn-link/rixx_brand_pack.zip",
+      "created_for": "RIXX Corporation",
+      "status": "active",
+      "tech": ["Figma", "Photoshop"],
+      "platform": "Design Assets"
+    }
+  ]
+}
