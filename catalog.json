@@ -9,6 +9,7 @@
       "description": "Primary public-facing website for RIXX Corporation with services and brand information.",
       "links": {
         "live_url": "https://rixxcorp.co.in",
+        "repo_url": null
       },
       "owner": "Rishabh",
       "status": "active"
