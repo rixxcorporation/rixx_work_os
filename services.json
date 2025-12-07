@@ -5,16 +5,12 @@
     "description": "Modern business websites with hosting, admin panel options and SEO capabilities.",
     "types": [
       {
-        "label": "Basic Website",
-        "min_price": 499
-      },
-      {
-        "label": "Advanced Business Website",
+        "label": "Basic to Advanced Business Website",
         "min_price": 999
       },
       {
         "label": "Dashboard + Admin",
-        "min_price": 1999
+        "min_price": 1499
       }
     ],
     "charges": {
@@ -22,7 +18,7 @@
       "max": 4999
     },
     "timeline": "5–20 days",
-    "notes": "Price depends on pages, features, animations and backend complexity."
+    "notes": "Price depends on pages, features and complexity."
   },
 
   {
@@ -44,22 +40,26 @@
       }
     ],
     "charges": {
-      "starting": 1999,
+      "starting": 1499,
       "max": 9999
     },
     "timeline": "10–35 days",
-    "notes": "Custom features and backend size affect delivery time."
+    "notes": "Custom features and Play store affect delivery time."
   },
 
   
    {
-    "name": "Bots, Pipeline and AI systems",
+    "name": "Bots, Automation (email,chat,etc & 360) and AI systems",
     "short": "telegram bots,pipeline 360 and AI",
     "description": "Professional bots with AI and there pipeline.",
     "types": [
+       {
+        "label": "Basic tool",
+        "min_price": 99
+      },
       {
-        "label": "Full Bot",
-        "min_price": 699
+        "label": "Complex tool",
+        "min_price": 4999
       }
     ],
     "charges": {
@@ -67,7 +67,7 @@
       "max": 4999
     },
     "timeline": "1–9 days",
-    "notes": "Longer or more complex edits require more time."
+    "notes": "Contact Developer."
   },
 
   {
@@ -116,10 +116,10 @@
     ],
     "charges": {
       "starting": 99,
-      "max": 4999
+      "max": 2999
     },
     "timeline": "1–9 days",
-    "notes": "Longer or more complex edits require more time."
+    "notes": "Longer or more complex edits require more time and cost."
   },
 
   {
@@ -133,11 +133,11 @@
       },
       {
         "label": "Visiting Card Design",
-        "min_price": 59
+        "min_price": 79
       },
       {
         "label": "Card Printing",
-        "min_price": 199
+        "min_price": 299
       },
       {
         "label": "Logo + Card Design + Card Print",
