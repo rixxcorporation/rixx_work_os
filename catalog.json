@@ -21,7 +21,7 @@
       "short": "Internal app for partners.",
       "description": "A private work OS for tasks, chats, services, notifications, and project coordination.",
       "links": {
-        "android_apk": "https://your-download-link.com/rixx_work_os.apk"
+        "android_apk": " N/A "
       },
       "owner": "RIXX Corporation",
       "status": "in_use"
@@ -34,7 +34,7 @@
       "short": "Support bot for internal ops.",
       "description": "Telegram bot for FAQs, quick responses, internal notes, and client assistance.",
       "links": {
-        "bot_url": "https://t.me/rixx_support_bot"
+        "bot_url": "https://t.me/RIXXCorporation_bot"
       },
       "owner": "RIXX Corporation",
       "status": "in_dev"
@@ -43,11 +43,11 @@
 
   "startup": [
     {
-      "name": "RIXX Tech Ventures",
+      "name": "RIXX Corporation",
       "short": "RIXX internal startup initiatives.",
-      "description": "Incubation of new AI tools, automation systems, low-code builder platforms, and internal productivity solutions.",
+      "description": "Incubation of new tools, automation systems, design and development and business productivity solutions.",
       "links": {
-        "overview": "https://rixxcorp.co.in/startup"
+        "overview": "https://rixxcorp.co.in/"
       },
       "owner": "RIXX Corporation",
       "status": "active"
