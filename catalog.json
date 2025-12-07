@@ -16,6 +16,16 @@
   ],
 
   "apps": [
+     {
+      "name": "RIXX Official",
+      "short": "App for All users.",
+      "description": "A app to connect users with RIXX.",
+      "links": {
+        "android_apk": " N/A "
+      },
+      "owner": "RIXX Corporation",
+      "status": "in_dev"
+    },
     {
       "name": "RIXX WorkOS",
       "short": "Internal app for partners.",
@@ -56,11 +66,11 @@
 
   "others": [
     {
-      "name": "Brand Assets Pack",
-      "short": "Logos, icons, posters & templates.",
+      "name": "Brand resource Pack",
+      "short": "Logos, icons & templates.",
       "description": "Official RIXX assets for design, marketing, and brand consistency.",
       "links": {
-        "download_zip": "https://your-cdn-link.com/rixx_brand_assets.zip"
+        "download_zip": "_"
       },
       "owner": "RIXX Corporation",
       "status": "active"
