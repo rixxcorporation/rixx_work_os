@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "last_updated": "2025-11-24",
 
-  "websites": [
+  "Created Websites": [
     {
       "id": "site_rixxcorp_main",
       "name": "RIXX Corporation Main Site",
@@ -25,7 +25,7 @@
     }
   ],
 
-  "bots": [
+  "Created Bots": [
     {
       "id": "bot_rixx_support_tg",
       "name": "RIXX Telegram Support Bot",
@@ -51,7 +51,7 @@
     }
   ],
 
-  "tools": [
+  "Created Tools": [
     {
       "id": "tool_promo_code_panel",
       "name": "Promo Code Admin Panel",
@@ -73,7 +73,7 @@
     }
   ],
 
-  "apps": [
+  "Created Apps": [
     {
       "id": "app_rixx_work_os",
       "name": "RIXX WorkOS",
