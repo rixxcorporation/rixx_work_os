@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "last_updated": "2025-12-07",
+  "version": "1.0.0",
+  "last_updated": "2025-11-24",
 
   "websites": [
     {
@@ -9,7 +9,6 @@
       "description": "Primary public-facing website for RIXX Corporation with services and brand information.",
       "links": {
         "live_url": "https://rixxcorp.co.in",
-        "repo_url": "https://github.com/rixxcorporation/rixxcorp"
       },
       "owner": "Rishabh",
       "status": "active"
@@ -56,31 +55,6 @@
       },
       "owner": "Rishabh & Kartikey",
       "status": "in_use"
-    }
-  ],
-
-  "resources": [
-    {
-      "name": "Brand Assets Pack",
-      "short": "Logos, icons, social banners.",
-      "description": "Centralized asset pack for RIXX brand visuals, optimized for quick deployment across digital touchpoints.",
-      "links": {
-        "download_zip": "https://your-cdn-link.com/rixx_brand_assets.zip",
-        "repo_url": "https://github.com/rixxcorporation/brand_assets"
-      },
-      "owner": "Rishabh",
-      "status": "active"
-    },
-    {
-      "name": "Internal Documentation Library",
-      "short": "Guides and SOPs.",
-      "description": "Structured docs library covering workflows, onboarding, tech stack and operational playbooks.",
-      "links": {
-        "docs_url": "https://docs.rixxcorp.co.in",
-        "backup_url": "https://github.com/rixxcorporation/docs_backup"
-      },
-      "owner": "Kartikey",
-      "status": "active"
     }
   ]
 }
