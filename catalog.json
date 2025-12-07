@@ -9,37 +9,37 @@
       "description": "Primary public-facing website for RIXX Corporation with services and brand information.",
       "links": {
         "live_url": "https://rixxcorp.co.in",
-        "repo_url": null
+        "repo_url": "_"
       },
-      "owner": "Rishabh",
+      "owner": "RIXX Corporation",
       "status": "active"
     }
   ],
 
   "bots": [
     {
-      "name": "RIXX Telegram Support Bot",
-      "short": "Support bot for internal and client queries.",
-      "description": "Telegram bot to answer FAQs, show service status, and share internal resources.",
+      "name": "RIXX Telegram Guide Bot",
+      "short": "Guide bot for RIXX info and client services.",
+      "description": "Telegram bot to guide with website, show service status, and share internal resources.",
       "links": {
-        "bot_url": "https://t.me/rixx_support_bot",
-        "repo_url": "https://github.com/rixxcorporation/rixx_support_tg"
+        "bot_url": "https://t.me/RIXXCorporation_bot",
+        "repo_url": "_"
       },
-      "owner": "Kartikey",
-      "status": "in_dev"
+      "owner": "RIXX Corporation",
+      "status": "active"
     }
   ],
 
   "tools": [
     {
-      "name": "Promo Code Admin Panel",
-      "short": "Internal tool to manage promo codes.",
-      "description": "Dashboard to create, validate, and expire promo codes.",
+      "name": "Razorpay Dashboard",
+      "short": "Internal tool to payment.",
+      "description": "Dashboard to create, validate, and manage payments.",
       "links": {
-        "panel_url": "https://rixxcorp.co.in/tools/promo",
-        "sheet_url": "https://docs.google.com/spreadsheets/d/XXXX"
+        "panel_url": " N/A ",
+        "sheet_url": "_"
       },
-      "owner": "Rishabh",
+      "owner": "RIXX Corporation",
       "status": "active"
     }
   ],
