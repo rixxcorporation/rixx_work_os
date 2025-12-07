@@ -1,43 +1,14 @@
 {
   "version": "1.0.0",
-  "last_updated": "2025-11-24",
+  "last_updated": "2025-12-07",
 
   "websites": [
     {
       "name": "RIXX Corporation Main Site",
       "short": "Main corporate website for RIXX.",
-      "description": "Primary public-facing website for RIXX Corporation with services and brand information.",
+      "description": "Primary public-facing website for RIXX Corporation with services, portfolio, and brand communication.",
       "links": {
-        "live_url": "https://rixxcorp.co.in",
-        "repo_url": "_"
-      },
-      "owner": "RIXX Corporation",
-      "status": "active"
-    }
-  ],
-
-  "bots": [
-    {
-      "name": "RIXX Telegram Guide Bot",
-      "short": "Guide bot for RIXX info and client services.",
-      "description": "Telegram bot to guide with website, show service status, and share internal resources.",
-      "links": {
-        "bot_url": "https://t.me/RIXXCorporation_bot",
-        "repo_url": "_"
-      },
-      "owner": "RIXX Corporation",
-      "status": "active"
-    }
-  ],
-
-  "tools": [
-    {
-      "name": "Razorpay Dashboard",
-      "short": "Internal tool to payment.",
-      "description": "Dashboard to create, validate, and manage payments.",
-      "links": {
-        "panel_url": " N/A ",
-        "sheet_url": "_"
+        "live_url": "https://rixxcorp.co.in"
       },
       "owner": "RIXX Corporation",
       "status": "active"
@@ -47,15 +18,52 @@
   "apps": [
     {
       "name": "RIXX WorkOS",
-      "short": "Private OS for RIXX partners.",
-      "description": "Internal app for chats, tasks, calendar, services, and resources.",
+      "short": "Internal app for partners.",
+      "description": "A private work OS for tasks, chats, services, notifications, and project coordination.",
       "links": {
-        "android_apk": "https://your-download-link.com/rixx_work_os.apk",
-        "windows_exe": "https://your-download-link.com/rixx_work_os.exe",
-        "repo_url": "https://github.com/rixxcorporation/rixx_work_os"
+        "android_apk": "https://your-download-link.com/rixx_work_os.apk"
       },
-      "owner": "Rishabh & Kartikey",
+      "owner": "RIXX Corporation",
       "status": "in_use"
+    }
+  ],
+
+  "bots": [
+    {
+      "name": "RIXX Telegram Support Bot",
+      "short": "Support bot for internal ops.",
+      "description": "Telegram bot for FAQs, quick responses, internal notes, and client assistance.",
+      "links": {
+        "bot_url": "https://t.me/rixx_support_bot"
+      },
+      "owner": "RIXX Corporation",
+      "status": "in_dev"
+    }
+  ],
+
+  "startup": [
+    {
+      "name": "RIXX Tech Ventures",
+      "short": "RIXX internal startup initiatives.",
+      "description": "Incubation of new AI tools, automation systems, low-code builder platforms, and internal productivity solutions.",
+      "links": {
+        "overview": "https://rixxcorp.co.in/startup"
+      },
+      "owner": "RIXX Corporation",
+      "status": "active"
+    }
+  ],
+
+  "others": [
+    {
+      "name": "Brand Assets Pack",
+      "short": "Logos, icons, posters & templates.",
+      "description": "Official RIXX assets for design, marketing, and brand consistency.",
+      "links": {
+        "download_zip": "https://your-cdn-link.com/rixx_brand_assets.zip"
+      },
+      "owner": "RIXX Corporation",
+      "status": "active"
     }
   ]
 }
