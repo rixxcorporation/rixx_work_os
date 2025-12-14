@@ -28,7 +28,7 @@
       "status": "in_use",
       "tech": ["Flutter", "Firebase", "OneSignal"],
       "platform": "Android / Windows",
-      "cost": 4999
+      "cost": 0
     }
   ],
 
@@ -43,16 +43,16 @@
       "status": "in_dev",
       "tech": ["Python", "Firestore"],
       "platform": "Telegram",
-      "cost": 999
+      "cost": 0
     }
   ],
 
   "others": [
     {
       "id": "other_001",
-      "name": "RIXX Brand Assets Pack",
+      "name": "Prakash Medical System Brand Assets Pack",
       "short": "Branding kit",
-      "description": "Complete branding kit including logos, banners, posters, and templates.",
+      "description": "Complete branding kit including logo, Map images, poster, and Doc.",
       "link": "https://cdn-link/rixx_brand_pack.zip",
       "created_for": "RIXX Corporation",
       "status": "active",
