@@ -4,10 +4,10 @@
     { "label": "Domain .xyz", "amount": 122 },
     { "label": "Domain .co.in", "amount": 116 },
     { "label": "Sim Card", "amount": 2 },
-    { "label": "Sim Recharge", "amount": 0 },
+    { "label": "Sim Recharge", "amount": 148 },
     { "label": "Razorpay", "amount": 199 },
     { "label": "Visiting Card", "amount": 290 },
     { "label": "Play Console", "amount": 2163 }
   ],
-  "total": 3002
+  "total": 3150
 }
