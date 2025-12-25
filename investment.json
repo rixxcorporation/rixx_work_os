@@ -9,5 +9,6 @@
     { "label": "Visiting Card", "amount": 290 },
     { "label": "Play Console", "amount": 2163 }
   ],
-  "total": 3150
+  "total": 3150,
+  "net_balance": 7350
 }
