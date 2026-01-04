@@ -7,8 +7,9 @@
     { "label": "Sim Recharge", "amount": 148 },
     { "label": "Razorpay", "amount": 199 },
     { "label": "Visiting Card", "amount": 290 },
+    { "label": "App Publishing", "amount": 999 },
     { "label": "Play Console", "amount": 2163 }
   ],
-  "total": 3150,
-  "net_balance": 7350
+  "total": 4150,
+  "net_balance": 6402
 }
